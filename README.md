@@ -16,7 +16,7 @@
 
 <br>
 
-- Software Engineer student at Universidad Peruana de Ciecias Aplicadas
+- Software Engineer student at Universidad Peruana de Ciencias Aplicadas
 - Currently learning Web Development
 - Looking for a new job opportunity
 
